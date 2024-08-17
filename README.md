@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student. Prospective Data Analyst.
 ----------------------------------
 
-I am a first-year undergraduate student studying Data Science and Business Analytics. I love learning new technologies, and solving problems.
+I am an undergraduate student studying Data Science and Business Analytics. I love learning new technologies, and solving problems.
 
 * 🌍  I'm based in Singapore
 * 🧠  I'm learning Danny Ma's 8 Weeks SQL Challenge, and my daily dose of DataLemur questions!
