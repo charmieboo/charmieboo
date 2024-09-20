@@ -6,10 +6,10 @@
 
 I am an undergraduate student studying Data Science and Business Analytics. I thrive on learning new technologies and tackling challenging problems with data-driven solutions.
 
-🤍 Based in Singapore
-🗒️ Continuously expanding my data toolkit, focusing on SQL, Python, R, and Tableau
-💡 Excited to connect, collaborate, and contribute to meaningful projects in the world of data
-🎧 Fun fact - concert lover and love all kinds of music genres
+🤍  Based in Singapore <br>
+🗒️  Continuously expanding my data toolkit, focusing on SQL, Python, R, and Tableau <br>
+💡  Excited to connect, collaborate, and contribute to meaningful projects in the world of data <br>
+🎧  Fun fact - concert lover and love all kinds of music genres <br>
 
 ----------------------------------
 
