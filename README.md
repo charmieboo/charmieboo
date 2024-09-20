@@ -1,14 +1,15 @@
 
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/94b69eba-25fa-4722-8d5b-7bdb816e887e">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charmaine
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)About me
 =================================================================================================================================
 
-I am an undergraduate student studying Data Science and Business Analytics. I love learning new technologies, and solving problems.
+I am an undergraduate student studying Data Science and Business Analytics. I thrive on learning new technologies and tackling challenging problems with data-driven solutions.
 
-* 🌍  I'm based in Singapore
-* 🧠  I'm learning Danny Ma's 8 Weeks SQL Challenge, and my daily dose of DataLemur questions!
-* 🌱 I’m currently (always) learning SQL, Python and Tableau.
+🤍 Based in Singapore
+🗒️ Continuously expanding my data toolkit, focusing on SQL, Python, R, and Tableau
+💡 Excited to connect, collaborate, and contribute to meaningful projects in the world of data
+🎧 Fun fact - concert lover and love all kinds of music genres
 
 ----------------------------------
 
