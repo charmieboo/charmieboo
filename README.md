@@ -1,8 +1,8 @@
+
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/94b69eba-25fa-4722-8d5b-7bdb816e887e">
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charmaine
 =================================================================================================================================
-
-Student. Prospective Data Analyst.
-----------------------------------
 
 I am an undergraduate student studying Data Science and Business Analytics. I love learning new technologies, and solving problems.
 
