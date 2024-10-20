@@ -1,10 +1,9 @@
-
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/94b69eba-25fa-4722-8d5b-7bdb816e887e">
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)About me
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello!
 =================================================================================================================================
 
-I am an undergraduate student studying Data Science and Business Analytics. I thrive on learning new technologies and tackling challenging problems with data-driven solutions.
+I am a penultimate student studying Data Science and Business Analytics. I thrive on learning new technologies and tackling challenging problems with data-driven solutions.
 
 🤍  Based in Singapore <br>
 🗒️  Continuously expanding my data toolkit, focusing on SQL, Python, R, and Tableau <br>
